@@ -1,4 +1,4 @@
-### Hey friend! 🤙🏽
+# Hey friend! 🤙🏽
 ## Thanks for being here
 
 My name is Arthur Rodrigues, I'm a 20 years old brazilian developer 🇧🇷 
@@ -7,7 +7,7 @@ I am studying System Analysis and Development @ UNICAMP
 and also @ Apple Developer Academy 
 
 The language I have the most experience is
-# Swift
+### Swift
 
 Hobbies:
 • Gym 🏋🏽‍♂️

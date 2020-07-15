@@ -1,5 +1,8 @@
 # Hey friend! 🤙🏽
-## Thanks for being here
+## Thanks for being here 😄
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursmr17/)](https://www.linkedin.com/in/arthursmr17/)
+
 
 My name is Arthur Rodrigues, I'm a 20 year old brazilian developer 🇧🇷 
 

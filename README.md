@@ -5,11 +5,10 @@ My name is Arthur Rodrigues, I'm a 20 year old brazilian developer 🇧🇷
 
 I am studying System Analysis and Development @ UNICAMP and also @ Apple Developer Academy 
 
-The language I have the most experience is:
-## Swift
+The language I have the most experience is Swift
 
 
-Hobbies:
+## Hobbies:
 
 • Gym 🏋🏽‍♂️
 

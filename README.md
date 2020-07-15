@@ -1,7 +1,7 @@
 # Hey friend! 🤙🏽
 ## Thanks for being here
 
-My name is Arthur Rodrigues, I'm a 20 years old brazilian developer 🇧🇷 
+My name is Arthur Rodrigues, I'm a 20 year old brazilian developer 🇧🇷 
 
 I am studying System Analysis and Development @ UNICAMP and also @ Apple Developer Academy 
 

@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursmr17/)](https://www.linkedin.com/in/arthursmr17/)
 
 
-My name is Arthur Rodrigues, I'm a 22 year old brazilian developer 🇧🇷 
+I am Arthur Rodrigues, a brazilian developer 🇧🇷
 
 The language I have the most experience is Swift 
 
@@ -12,9 +12,11 @@ The language I have the most experience is Swift 
 
 • Gym 🏋🏽‍♂️
 
+• Boxing 🥊 
+
 • Soccer ⚽️
 
 • Music 🎶
 
 
-### I want to help and impact people's lives with technology 🚀
+### I want to make people's lives simpler and more accessible with the help of technology 🚀

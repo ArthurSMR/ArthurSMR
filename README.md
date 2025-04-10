@@ -1,22 +1,15 @@
-# Hey friend! 🤙🏽
-## Thanks for being here 😄
+# Hey, I'm Arthur Rodrigues 👋🏽
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursmr17/)](https://www.linkedin.com/in/arthursmr17/)
+🇧🇷 iOS Developer with 5+ years of experience building native apps using **Swift**, focused on delivering scalable, elegant, and user-centric solutions. Passionate about **UI/UX**, **Clean Architecture**, and solving real-world problems through technology.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursmr17/)](https://www.linkedin.com/in/arthursmr17/)
 
-I am Arthur Rodrigues, a brazilian developer 🇧🇷
+### 💼 Currently working at Itaú Unibanco
+- Creating robust, end-to-end payment modules for millions of users
+- Writing clean, testable code using VIP, SOLID, and Clean Swift
 
-The language I have the most experience is Swift 
+### ⚽️ On the side...
+I’m a big football fan (both watching and playing weekly!), love going to the gym, boxing, and enjoying good music 🎶
 
-## Hobbies:
-
-• Gym 🏋🏽‍♂️
-
-• Boxing 🥊 
-
-• Soccer ⚽️
-
-• Music 🎶
-
-
-### I want to make people's lives simpler and more accessible with the help of technology 🚀
+### 💡 Goal:
+Build products that simplify lives and empower people — one app at a time 🚀
